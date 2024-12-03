@@ -45,13 +45,9 @@ ANSHIF HASSAN
 
 <p align="left">
 <a href="https://github.com/Anshif-Hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jkkkk" height="30" width="40" /></a>
- 
 <a href="https://instagram.com/am.anshif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="am.anshif" height="30" width="40" /></a>
-
  <a href="https://wa.me/+917902481848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="jkkkk" height="30" width="40" /></a>
- 
  <a href="https://instagram.com/anshif.mp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jkkkk" height="30" width="40" /></a>
- 
  <a href="https://youtube.com/@anshifmodz3490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jkkkk" height="30" width="40" /></a>
 </p>
 
