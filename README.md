@@ -1,5 +1,4 @@
-<h1 align="center">
-ANSHIF HASSAN
+<h1 align="center"><b>Hey, I'm Anshif Hassan</b><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="35"></h1>
 
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=C0428A&size=20&width=350&lines=HI+HOW+ARE+YOU...;IAM+ANSHIF+HASSAN+;IAM+NOT+A+PROFESSIONAL+DEVELOPER;THANK+YOU+❤️)](https://git.io/typing-svg) <br/>
 
