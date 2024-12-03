@@ -45,13 +45,13 @@ ANSHIF HASSAN
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/am.anshif">
+<a href="https://www.instagram.com/am.anshif?igsh=MTR5Z295cGh0bTQ1dA==">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://youtube.com/@anshifmodz3490">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>  
-<a href="https://www.instagram.com/anshif.mp4">
+<a href="https://www.instagram.com/anshif.mp4?igsh=MXB6bWwyZnp2eTB4eg==">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://t.me/+917902481848">
