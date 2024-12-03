@@ -42,7 +42,7 @@ ANSHIF HASSAN
 <a href="https://www.instagram.com/anshif.mp4">
     <img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://t.me/@am_anshif">
+<a href="https://t.me/+917902481848">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" />
  </a><br>
 
