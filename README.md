@@ -82,6 +82,8 @@ Scan qr code from the above button, You can pay through GooglePay, Paytm and Pho
 </p>
 
 <p><a href="https://www.buymeacoffee.com/anshifhassan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Coffe" /></a></p><br><br>
+<br>
+<p align="left"><b>Thank You! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/upside-down-face_1f643.gif" height ="20px" width ="20px"></b></p>
 
 
 
