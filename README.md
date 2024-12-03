@@ -1,7 +1,8 @@
 <h1 align="center">
 ANSHIF HASSAN
 
-## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=000000&size=20&width=350&lines=HI+HOW+ARE+YOU...;IAM+ANSHIF+HASSAN+;IAM+NOT+A+PROFESSIONAL+DEVELOPER;THANK+YOU+❤️)](https://git.io/typing-svg) <br/>
+## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=C0428A&size=20&width=350&lines=HI+HOW+ARE+YOU...;IAM+ANSHIF+HASSAN+;IAM+NOT+A+PROFESSIONAL+DEVELOPER;THANK+YOU+❤️)](https://git.io/typing-svg) <br/>
+
 <br/>
 <div align="center" >
    <img src="https://graph.org/file/09b5d769fddce5a771563.jpg" alt="GIF" width="300" height="270"/>
