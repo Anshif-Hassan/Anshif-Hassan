@@ -12,13 +12,13 @@
  Hey iam <a href="https://github.com/ANSHIF-HASSAN" target="_blank">Anshif<a>, Dont forget to follow me on Github
 
 
-<p align="center">
+<!--<p align="center">
 <a href="https://instagram.com/am.anshif?igshid=MzRlODBiNWFlZA==(https://instagram.com/am.anshif?igshid=MzRlODBiNWFlZA==)"><img title="Size" src="https://img.shields.io/badge/Instagram-am.anshif-green"></a>
 </p>
 
 <p align="center">
 <a href="https://instagram.com/anshif.mp4?igshid=MzRlODBiNWFlZA==(https://instagram.com/anshif.mp4?igshid=MzRlODBiNWFlZA==)"><img title="Size" src="https://img.shields.io/badge/Instagram-anshif.mp4-violet"></a>
-</p>
+</p>-->
 
 <p align="center">
 <a href="https://github.com/ANSHIF-HASSAN"><img title="Size" src="https://img.shields.io/badge/Github-anshif.mp4-red"></a>
